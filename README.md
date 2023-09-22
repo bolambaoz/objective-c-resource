@@ -4,6 +4,9 @@
 https://devtut.github.io/objectivec/categories.html#create-a-category-on-xcode
 https://www.tutorialspoint.com/objective_c/objective_c_functions.htm
 
+# objective c - apple Documentation
+https://developer.apple.com/documentation/foundation/nsorderedset/1543310-orderedsetwitharray
+
 # EXTRACTING STRING WITH RANGE INDEX
 https://stackoverflow.com/questions/6052223/extracting-a-string-with-substringwithrange-gives-index-out-of-bounds
 
